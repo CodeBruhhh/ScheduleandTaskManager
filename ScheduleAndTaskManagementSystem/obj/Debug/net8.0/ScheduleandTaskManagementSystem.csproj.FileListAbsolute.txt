@@ -1,0 +1,15 @@
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.AssemblyInfo.cs
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\bin\Debug\net8.0\ScheduleandTaskManagementSystem.exe
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\bin\Debug\net8.0\ScheduleandTaskManagementSystem.deps.json
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\bin\Debug\net8.0\ScheduleandTaskManagementSystem.runtimeconfig.json
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\bin\Debug\net8.0\ScheduleandTaskManagementSystem.dll
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\bin\Debug\net8.0\ScheduleandTaskManagementSystem.pdb
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.dll
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\refint\ScheduleandTaskManagementSystem.dll
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.pdb
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.genruntimeconfig.cache
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ref\ScheduleandTaskManagementSystem.dll
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem\obj\Debug\net8.0\ScheduleandTaskManagementSystem.sourcelink.json

@@ -1,0 +1,5 @@
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem.exe
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem.dll
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem.deps.json
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem.runtimeconfig.json
+C:\Users\Christian\Documents\Projects\C#\Projects\ScheduleandTaskManagementSystem.pdb
